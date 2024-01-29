@@ -7,7 +7,7 @@ Western PA News
 </head>
 <body>
 <a>
-href="https://"AvaMammone.github.io" target ="_blank">
+href="https://"AvaMammone.github.io/README.md" target ="_blank">
 </a>
 </body>
 </html>
