@@ -3,5 +3,5 @@
 <head>
 <title> Western PA News
 </head>
-<a href=”AvaMammone.github.io”></a>
+<a href="https://"OutlineNewsArticle4H.html" target="_blank"></a>
 </head>
