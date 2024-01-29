@@ -3,5 +3,5 @@
 <head>
 <title> Western PA News
 </head>
-<a href=”AvaMammone.github.io”>Learn Magic</a>
+<a href=”AvaMammone.github.io”></a>
 </head>
