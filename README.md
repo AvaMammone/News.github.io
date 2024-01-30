@@ -1,13 +1,11 @@
-<DOCTYPE html>
-<html lang = “en”>
-<head>
-<title> 
-Western PA News 
-</title>
-</head>
+<!DOCTYPE html>
+<html>
 <body>
-<a>
-href="https://"AvaMammone.github.io/README.md" target ="_blank">
-</a>
+
+<h1>News</h1>
+
+<p><a href="AvaMammone.github.io"target="_blank"></a>https://github.com/AvaMammone/AvaMammone.github.io/tree/main</a></p>
+
 </body>
 </html>
+
