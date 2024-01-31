@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<h1>News</h1>
+<h1>Western PA News</h1>
 
-<p><a href="AvaMammone.github.io"target="_blank"></a>https://github.com/AvaMammone/AvaMammone.github.io/tree/main</a></p>
+<p><a href="https://github.com/AvaMammone/AvaMammone.github.io/blob/main/README.md="_blank"></a>https://github.com/AvaMammone/AvaMammone.github.io/tree/main</a></p>
 
 </body>
 </html>
