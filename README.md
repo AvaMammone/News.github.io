@@ -4,7 +4,7 @@
 
 <h1>Western PA News</h1>
 
-<h2>DEADLINE to Sign Up for the Lawrence County 4H Clubs Quickly Approaching</h2>
+<h3>DEADLINE to Sign Up for the Lawrence County 4H Clubs Quickly Approaching</h2>
 
 <p><a href="AvaMammone.github.io"target="_blank"></a>https://github.com/AvaMammone/AvaMammone.github.io/blob/main/README.md</a></p>
 
